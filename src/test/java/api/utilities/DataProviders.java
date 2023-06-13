@@ -81,6 +81,7 @@ public class DataProviders {
 		dataMap.put("password", "2ASD@1234");
 
 		dataSet[0][0] = dataMap;
+		
 		return dataSet;
 	}
 
