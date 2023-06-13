@@ -24,7 +24,6 @@ public class UserEndPointsUsingPropertiesFile {
 		return prop.getProperty(key);
 	}
 	
-
 	// CRUD methods implementations
 
 	public static Response createUser(User payload) throws IOException {
